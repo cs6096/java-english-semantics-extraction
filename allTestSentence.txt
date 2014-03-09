@@ -1,0 +1,24 @@
+All the students gathered in the hallway.
+{Q1:<typeLabel:relationship><name:actionExecutioner>}
+{Q2:<typeLabel:relationship><locational:true>}
+{Q3:<typeLabel:relationship><name:actionSource>}
+{Q4:<typeLabel:relationship><name:actionTarget>}
+{Q5:<typeLabel:relationship><name:actionBody>}
+{A:<typeLabel:object><name:student><plurality:plural>[B:Q1]}
+{B:<typeLabel:action><name:gather><tense:past>}
+{C:<typeLabel:object><name:hallway>}
+{D:<typeLabel:atomicConstruct><partOfSpeech:noun><tokenContent:students><isAtomic:false>}
+
+
+
+
+They asked who likes the meat.
+We know who Larry sent to the store.
+Who did Larry sent to the store?
+He became what he always wanted to be.
+We left after the end of the speeches.
+He sat quietly in order to appear polite.
+The police advised us not to enter the building, for a murder had occurred.
+There are broadly three aspects to the study, which include language form, language meaning, and language in context.
+
+He's just too good.

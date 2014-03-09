@@ -1,0 +1,9 @@
+{Q1:<typeLabel:relationship><name:actionExecutioner>}
+{Q2:<typeLabel:relationship><locational:true>}
+{Q3:<typeLabel:relationship><name:actionSource>}
+{Q4:<typeLabel:relationship><name:actionTarget>}
+{Q5:<typeLabel:relationship><name:actionBody>}
+{A:<typeLabel:object><name:student><plurality:plural>[Q1:B]}
+{B:<typeLabel:action><name:gather><tense:past>}
+{C:<typeLabel:object><name:hallway>}
+{D:<typeLabel:atomicConstruct><partOfSpeech:noun><tokenContent:students><isAtomic:false>}

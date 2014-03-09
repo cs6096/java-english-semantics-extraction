@@ -1,0 +1,7 @@
+To change the testing sentences, modify \"testSentence.txt\" under the project directory.
+
+The implemented grammar rules could already handle a lot of English sentences.
+However the corresponding modfier rules are rather incomplete.
+The actual semantic mapping performance hence would be quite poor.
+
+ 

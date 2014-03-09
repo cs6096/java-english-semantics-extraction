@@ -1,0 +1,33 @@
+be
+can
+could
+do
+have
+may
+might
+must
+shall
+shoul
+will
+would
+
+may
+might
+must
+be	being
+been
+am
+are
+is
+was
+were
+do	does
+did
+should
+could	would
+have
+had
+has
+will
+can
+shall
