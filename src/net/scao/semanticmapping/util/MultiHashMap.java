@@ -44,7 +44,7 @@ public class MultiHashMap <E,V> {
 			}
 		}
 	}
-	public V greedyMappedElement(E from){
+	public V firstMappedElement(E from){
 		if (!contMap.containsKey(from)){
 			return null;
 		}

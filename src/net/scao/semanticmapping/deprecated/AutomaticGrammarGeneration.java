@@ -19,7 +19,7 @@
  * Please contact sca6096@gmail.com if you need additional information
  * or have any questions.
  */
-package net.scao.semanticmapping.rulegeneration;
+package net.scao.semanticmapping.deprecated;
 
 import net.scao.semanticmapping.util.IOUtil;
 import net.scao.semanticmapping.util.JavaCodeUtil;
